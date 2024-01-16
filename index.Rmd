@@ -1,0 +1,25 @@
+---
+title: "Houston Power Prices"
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating websites with Distill at:
+# https://rstudio.github.io/distill/website.html
+
+# Learn more about publishing to GitHub Pages at:
+# https://rstudio.github.io/distill/publish_website.html#github-pages
+
+```
+
+## Today's Prediction
+```{r}
+knitr::include_graphics('today.jpg')
+```
+
+## Last Week's Prediction
+```{r}
+knitr::include_graphics('week_ago.jpg')
+```

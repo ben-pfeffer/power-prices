@@ -1,0 +1,13 @@
+---
+title: "About this site"
+links: 
+  - label: Email
+    url: 'mailto:bpfffr@gmail.com'
+description: |
+  Some additional details about the website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
