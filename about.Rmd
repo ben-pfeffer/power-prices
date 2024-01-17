@@ -1,13 +1,11 @@
 ---
-title: "About this site"
-links: 
-  - label: Email
-    url: 'mailto:bpfffr@gmail.com'
-description: |
-  Some additional details about the website
+title: "About"
 ---
+Every day we make predictions about hourly power 
+market prices in Texas for the upcoming week. 
+We also test how well last week's predictions performed against reality. 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
+This site updates each morning at 7:00 AM Central. 
 
+### Want to learn more? 
+[Contact Us](mailto:bpfffr@gmail.com)

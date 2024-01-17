@@ -1,5 +1,5 @@
 ---
-title: "Today's Predictions"
+title: "Last Week's Predictions"
 site: distill::distill_website
 ---
 
@@ -8,8 +8,8 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ```{r}
-knitr::include_graphics('today.jpg')
+knitr::include_graphics('week_ago.jpg')
 ```
 
 [Subscribe](mailto:bpfffr@gmail.com?subject=SUBSCRIBE&body=Subscribe Me!) 
-for a daily email in your inbox.
+for a daily email in your inbox. 

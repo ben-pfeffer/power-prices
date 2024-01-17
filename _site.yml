@@ -1,12 +1,14 @@
 name: "."
 title: "Houston Power Prices"
 description: |
-  Houston Power Prices
+  Power Price Predictions
 output_dir: "docs"
 navbar:
   right:
-    - text: "Home"
+    - text: "Upcoming Week"
       href: index.html
+    - text: 'Last Week'
+      href: last_week.html
     - text: "About"
       href: about.html
 output: distill::distill_article
