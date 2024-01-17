@@ -1,7 +1,7 @@
 name: "."
 title: "Houston Power Prices"
 description: |
-  Power Price Predictions
+  Power Price Forecasts
 output_dir: "docs"
 navbar:
   right:

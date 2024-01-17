@@ -1,9 +1,9 @@
 ---
 title: "About"
 ---
-Every day we make predictions about hourly power 
+Every day we forecast hourly power 
 market prices in Texas for the upcoming week. 
-We also test how well last week's predictions performed against reality. 
+We also test how well last week's forecast performed against reality. 
 
 This site updates each morning at 7:00 AM Central. 
 

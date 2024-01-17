@@ -1,5 +1,5 @@
 ---
-title: "Today's Predictions"
+title: "Today's Forecast"
 site: distill::distill_website
 ---
 

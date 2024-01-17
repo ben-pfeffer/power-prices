@@ -1,5 +1,5 @@
 ---
-title: "Last Week's Predictions"
+title: "Last Week's Forecast"
 site: distill::distill_website
 ---
 
