@@ -5,21 +5,14 @@
       "title": "About",
       "author": [],
       "contents": "\r\nEvery day we forecast hourly power\r\nmarket prices in Texas for the upcoming week.\r\nWe also test how well last week’s forecast performed against reality.\r\nThis site updates each morning at 7:00 AM Central.\r\nWant to learn more?\r\nContact Us\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-01-17T15:11:19-05:00"
+      "last_modified": "2024-01-21T13:39:58-05:00"
     },
     {
       "path": "index.html",
-      "title": "Today's Forecast",
+      "title": "Power Forecasts",
       "author": [],
-      "contents": "\r\n\r\n\r\n\r\nSubscribe\r\nfor a daily email in your inbox.\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-01-17T15:11:22-05:00"
-    },
-    {
-      "path": "last_week.html",
-      "title": "Last Week's Forecast",
-      "author": [],
-      "contents": "\r\n\r\n\r\n\r\nSubscribe\r\nfor a daily email in your inbox.\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-01-17T15:11:23-05:00"
+      "contents": "\r\nToday’s Forecast\r\n\r\n\r\n\r\nLast Week’s Forecast\r\n\r\n\r\n\r\nSubscribe\r\nfor a daily email in your inbox.\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-01-21T13:39:59-05:00"
     }
   ],
   "collections": []

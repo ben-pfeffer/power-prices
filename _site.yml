@@ -5,10 +5,8 @@ description: |
 output_dir: "docs"
 navbar:
   right:
-    - text: "Upcoming Week"
+    - text: "Forecasts"
       href: index.html
-    - text: 'Last Week'
-      href: last_week.html
     - text: "About"
       href: about.html
 output: distill::distill_article
